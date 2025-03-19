@@ -8,9 +8,7 @@ version = "0.0.1"
 
 application {
     mainClass.set("org.liksi.slides.ApplicationKt")
-
-    val isDevelopment: Boolean = project.ext.has("development")
-    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=true")
 }
 
 repositories {

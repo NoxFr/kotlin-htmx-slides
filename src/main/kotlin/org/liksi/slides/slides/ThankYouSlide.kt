@@ -18,6 +18,17 @@ class ThankYouSlide : Slide {
                 h3 {
                     +"Des questions ?"
                 }
+                
+            
+            }
+            
+            div(classes = "feedback-container") {
+                p {
+                    +"A votre bon coeur !"
+                }
+                a(href = "https://openfeedback.io/KrYSqASyM11bjy3Rz49a/2025-03-20/NTzFG1zVM1HUR6llbtQD", classes = "feedback-link") {
+                    img(src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://openfeedback.io/KrYSqASyM11bjy3Rz49a/2025-03-20/NTzFG1zVM1HUR6llbtQD", classes = "feedback-qr")
+                }
             }
             
             div(classes = "links-container bottom-links") {

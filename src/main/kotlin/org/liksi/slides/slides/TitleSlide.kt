@@ -1,6 +1,9 @@
 package org.liksi.slides.slides
 
-import kotlinx.html.*
+import kotlinx.html.FlowContent
+import kotlinx.html.div
+import kotlinx.html.h1
+import kotlinx.html.img
 
 /**
  * Slide de titre de la présentation
