@@ -21,15 +21,15 @@ class ToolsSlide : Slide {
                 }
                 
                 ul {
-                    li { +"Typage fort et inférence de types" }
+                    li { +"Typage fort" }
                     li { +"Null-safety natif" }
                     li { +"Extensions de fonctions et propriétés" }
                     li { +"Coroutines pour une programmation asynchrone élégante" }
                 }
                 
                 p {
-                    strong { +"Kotlin HTML DSL" }
-                    +" - Pourquoi c'est bien:"
+                    strong { +"Kotlin HTML DSL (Domain Specific Language)" }
+                    +" - Pourquoi c'est bien"
                 }
                 
                 ul {

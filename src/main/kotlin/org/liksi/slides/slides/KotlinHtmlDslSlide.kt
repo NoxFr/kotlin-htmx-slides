@@ -15,7 +15,7 @@ class KotlinHtmlDslSlide : Slide {
             }
             
             div(classes = "content") {
-                p { +"Un exemple concret de création d'une page HTML avec Kotlin:" }
+                p { +"Un exemple concret de création d'une page HTML avec Kotlin" }
                 
                 pre {
                     code(classes = "code-kotlin") {

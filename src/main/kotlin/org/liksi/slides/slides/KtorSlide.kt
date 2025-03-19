@@ -17,7 +17,7 @@ class KtorSlide : Slide {
             div(classes = "content") {
                 p {
                     strong { +"Ktor" }
-                    +" - Un framework asynchrone Kotlin-native pour créer des applications connectées:"
+                    +" - Un framework asynchrone Kotlin-native pour créer des applications client / serveur"
                 }
                 
                 ul {

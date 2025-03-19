@@ -34,7 +34,7 @@ class HtmxSlide : Slide {
                         +" - Ajoute des comportements dynamiques via des attributs HTML standards"
                     }
                     li { 
-                        strong { +"Retours arrière progressifs" }
+                        strong { +"Intégration facilité" }
                         +" - Fonctionne avec le modèle mental du HTML, sans nouvelles abstractions"
                     }
                     li { 

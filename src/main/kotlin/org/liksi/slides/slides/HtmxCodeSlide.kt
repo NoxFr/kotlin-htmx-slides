@@ -15,7 +15,7 @@ class HtmxCodeSlide : Slide {
             }
             
             div(classes = "content") {
-                p { +"Exemple d'utilisation d'HTMX pour une application de todo liste:" }
+                p { +"Exemple d'utilisation d'HTMX pour une application de todo list" }
                 
                 pre {
                     code(classes = "language-html") {
