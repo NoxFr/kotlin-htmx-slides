@@ -11,7 +11,7 @@ import org.liksi.slides.slides.Navigation
 import org.liksi.slides.slides.SlideDeck
 
 fun main() {
-    embeddedServer(CIO, port = 8080, host = "0.0.0.0") {
+    embeddedServer(CIO, port = 1337, host = "0.0.0.0") {
         configureRouting()
     }
         .start(wait = true)

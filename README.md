@@ -9,4 +9,4 @@ It is kotlin/ktor/kotlin-html because why not
 
 *PS : run these commands in two distinct shells*
 
-Go [here](http://localhost:8080) to see UI
+Go [here](http://localhost:1337) to see UI
