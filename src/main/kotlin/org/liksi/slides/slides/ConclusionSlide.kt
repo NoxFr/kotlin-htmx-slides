@@ -15,7 +15,7 @@ class ConclusionSlide : Slide {
             }
             
             div(classes = "content") {
-                p { +"Le choix des outils doit correspondre à vos besoins:" }
+                p { +"Le choix des outils doit correspondre à vos besoins" }
                 
                 ul {
                     li {
@@ -38,7 +38,7 @@ class ConclusionSlide : Slide {
                 
                 div(classes = "quote-container") {
                     blockQuote(classes = "elegant-quote") {
-                        +"« Peu importe le flacon, pourvu qu'on ait l'ivresse. »"
+                        +"« Peu importe le flacon, pourvu qu'on ait l'ivresse.»"
                     }
                     p(classes = "quote-author") {
                         em {
